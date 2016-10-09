@@ -3,4 +3,4 @@ creat new branch
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-A & B
+A and B
